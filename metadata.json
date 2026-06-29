@@ -1,0 +1,6 @@
+{
+  "name": "暖芽 - 青少年身心健康伙伴",
+  "description": "暖芽是一个专为青少年打造的温暖、无压力的身心健康陪伴应用。提供轻量任务打卡、情绪记录、与芽芽（智能AI伙伴）倾诉、舒缓拉伸以及饮食水分管理，帮助你放松身心，快乐成长。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
